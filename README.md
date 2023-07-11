@@ -1,2 +1,2 @@
-# inclusive-language-checker
-This repo is meant to be used for testing the inclusive language checker for commit messages.
+# inclusive-language-checker-global
+This repo is where the Inclusive Language Checker will live, SonarCloud is currently being added to this.
