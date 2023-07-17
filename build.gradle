@@ -21,9 +21,6 @@ dependencies {
 apply plugin: 'checkstyle'
 apply plugin: 'java'
 apply plugin: 'jacoco'
-apply plugin: 'org.springframework.boot'
-apply plugin: 'idea'
-apply from: 'build-scripts/opentelemetry.gradle'
 
 gitProperties {
     keys = ['git.commit.id']
